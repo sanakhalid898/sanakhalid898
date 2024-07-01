@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a passionate Data Scientist
+I'm a passionate Data Scientist!
 
 
 ## 🔗 Links
