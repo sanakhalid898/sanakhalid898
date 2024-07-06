@@ -16,7 +16,8 @@ I'm a passionate Data Scientist!
 1. Python
 2. R
 3. SQL
-4. Tableau
-5. Statistics
-6. Machine Learning
+4. STATA
+5. Tableau
+6. Statistics
+7. Machine Learning
 
